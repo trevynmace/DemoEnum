@@ -1,0 +1,6 @@
+C:\Users\tmace\Documents\csis2530\classLabs\DemoEnum\DemoEnum\bin\Debug\DemoEnum.exe.config
+C:\Users\tmace\Documents\csis2530\classLabs\DemoEnum\DemoEnum\bin\Debug\DemoEnum.exe
+C:\Users\tmace\Documents\csis2530\classLabs\DemoEnum\DemoEnum\bin\Debug\DemoEnum.pdb
+C:\Users\tmace\Documents\csis2530\classLabs\DemoEnum\DemoEnum\obj\Debug\DemoEnum.csprojResolveAssemblyReference.cache
+C:\Users\tmace\Documents\csis2530\classLabs\DemoEnum\DemoEnum\obj\Debug\DemoEnum.exe
+C:\Users\tmace\Documents\csis2530\classLabs\DemoEnum\DemoEnum\obj\Debug\DemoEnum.pdb
